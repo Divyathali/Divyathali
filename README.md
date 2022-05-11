@@ -1,4 +1,4 @@
-# Hi there, I am DIVYATH
+# Hi 👋, I'm Divyath Ali Shajahan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
 
