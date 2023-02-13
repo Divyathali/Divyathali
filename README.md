@@ -3,12 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
 
 # Connect with me
-<img align="right" width="400" src="https://github.com/Divyathali/Divyathali/blob/main/linked-n-profile.png">
+<a href="https://www.linkedin.com/in/divyath-ali-shajahan-7557b0103/"> 
+    <img align="right" width="400" src="https://github.com/Divyathali/Divyathali/blob/main/linked-n-profile.png">
+</a>
 <p align="left">
-- 🌱 I’m currently learning : Web development
+- 🌱 I’m currently learning : Software Development
 
-- 💬 Ask me about **: Python, Javascript,MERN Stack , Full stack development, MongoDB,SQL,Mysql,OOPS,Data structure**
-
+- 💬 Language **: Python, Javascript, C , MERN stack**
+- 💬 Concepts **: OOPS, Data structure, System Design, Microservice Architecture**
+- 💬 Dev tech **: Full stack web development, ML/AI basics,Data Analytics**
+  
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
 - portfolio **: Realesed SOON...**
 - Resume **: Realsed SOON....**
