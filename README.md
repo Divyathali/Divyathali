@@ -11,7 +11,7 @@
 
 - 💬 Language **: Python, Javascript, C , MERN stack**
 - 💬 Concepts **: OOPS, Data structure, System Design, Microservice Architecture**
-- 💬 Dev tech **: Full stack web development, ML/AI basics,Data Analytics**
+- 💬 Tech **: Full stack web development, Data Analytics**
   
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
 - portfolio **: Realesed SOON...**
