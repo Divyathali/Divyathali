@@ -7,7 +7,7 @@
 <p align="left">
 - 🌱 I’m currently learning : Web development
 
-- 💬 Ask me about **: Python, Javascript,MERN**
+- 💬 Ask me about **: Python, Javascript,MERN Stack , Full stack development, MongoDB,SQL,Mysql,OOPS,Data structure**
 
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
 - portfolio **: Realesed SOON...**
