@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
 
 # Connect with me
-<img align="right" width="400" src="https://i.pinimg.com/originals/cc/bd/67/ccbd67d363751dada61a261b3f622b56.gif">
+<img align="right" width="400" src="https://github.com/Divyathali/Divyathali/blob/main/linked-n-profile.png">
 <p align="left">
 - 🌱 I’m currently learning : Web development
 
