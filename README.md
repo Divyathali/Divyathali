@@ -16,7 +16,7 @@
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
 - portfolio **: Realesed SOON...**
 - Resume **: Realsed SOON....**
-    - Paper Published **: <a href="https://ieeexplore.ieee.org/document/8938275"></a>Paper **
+- Paper Published : <a href="https://ieeexplore.ieee.org/document/8938275">Fast and memory Compact Routing Alogorithm for FPGA</a> i IEEE.
 </p>
 <br/>
 
