@@ -16,6 +16,7 @@
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
 - portfolio **: Realesed SOON...**
 - Resume **: Realsed SOON....**
+    - Paper Published **: <a href="https://ieeexplore.ieee.org/document/8938275"></a>Paper **
 </p>
 <br/>
 
