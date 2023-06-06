@@ -1,6 +1,5 @@
 # Hi 👋, I'm Divyath Ali Shajahan
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" />
 <p align="left">
 - 🌱 I’m currently learning : Software Development
 - 💬 Language **: Python, Javascript, C , MERN stack**
