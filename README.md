@@ -1,14 +1,11 @@
 # Hi 👋, I'm Divyath Ali Shajahan
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
-
-# Connect with me
 <p align="left">
 - 🌱 I’m currently learning : Software Development
 - 💬 Language **: Python, Javascript, C , MERN stack**
-- 💬 Tech **: Full stack web development, Data Analytics**  
-- 📫 How to reach me **: divyathalishajahan@gmail.com**
-- Paper Published : <a href="https://ieeexplore.ieee.org/document/8938275">Fast and memory Compact Routing Alogorithm for FPGA</a> i IEEE.
+- 💬 Tech **: Full stack web development, Data Analytics**
+- Paper Published : <a href="https://ieeexplore.ieee.org/document/8938275"><b>Fast and memory Compact Routing Alogorithm for FPGA</b></a> i IEEE.
 </p>
 <br/>
 
