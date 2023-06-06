@@ -3,19 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" /> </p>
 
 # Connect with me
-<a href="https://www.linkedin.com/in/divyath-ali-shajahan-7557b0103/"> 
-    <img align="right" width="400" src="https://github.com/Divyathali/Divyathali/blob/main/linked-n-profile.png">
-</a>
 <p align="left">
 - 🌱 I’m currently learning : Software Development
-
 - 💬 Language **: Python, Javascript, C , MERN stack**
-- 💬 Concepts **: OOPS, Data structure, System Design, Microservice Architecture**
-- 💬 Tech **: Full stack web development, Data Analytics**
-  
+- 💬 Tech **: Full stack web development, Data Analytics**  
 - 📫 How to reach me **: divyathalishajahan@gmail.com**
-- portfolio **: Realesed SOON...**
-- Resume **: Realsed SOON....**
 - Paper Published : <a href="https://ieeexplore.ieee.org/document/8938275">Fast and memory Compact Routing Alogorithm for FPGA</a> i IEEE.
 </p>
 <br/>
