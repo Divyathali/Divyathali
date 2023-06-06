@@ -1,4 +1,4 @@
-# Hi 👋, I'm Divyath Ali Shajahan
+<h1 align="left"> Hi 👋, I'm Divyath Ali Shajahan</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=divyathali&label=Profile%20views&color=0e75b6&style=flat" alt="divyathali" />
 <p align="left">
 - 🌱 I’m currently learning : Software Development
